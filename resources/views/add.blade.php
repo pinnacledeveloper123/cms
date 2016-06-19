@@ -2,5 +2,5 @@
 
 @section('content')
     
-  Add new goes here
+  Add new goes here updated
 @stop

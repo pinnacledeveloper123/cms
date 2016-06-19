@@ -2,7 +2,7 @@
 
 @section('content')
     
-    View All Goes here <br>
+    View All Goes here updated <br>
 
     @if (count($person))
         <ul>
